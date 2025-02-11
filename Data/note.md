@@ -1,0 +1,1 @@
+The dataset is too large to be uploaded to GitHub. You can download it from [here](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
